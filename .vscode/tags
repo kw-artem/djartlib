@@ -1,0 +1,52 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOWED_HOSTS	../backend/djart/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../backend/djart/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:87
+AppConfig	../backend/library/apps.py	/^from django.apps import AppConfig$/;"	kind:namespace	line:1
+BASE_DIR	../backend/djart/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+DATABASES	../backend/djart/settings.py	/^DATABASES = {$/;"	kind:variable	line:76
+DEBUG	../backend/djart/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+INSTALLED_APPS	../backend/djart/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../backend/djart/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:106
+LibraryConfig	../backend/library/apps.py	/^class LibraryConfig(AppConfig):$/;"	kind:class	line:4
+MIDDLEWARE	../backend/djart/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+ROOT_URLCONF	../backend/djart/settings.py	/^ROOT_URLCONF = 'djart.urls'$/;"	kind:variable	line:52
+SECRET_KEY	../backend/djart/settings.py	/^SECRET_KEY = '_e9wuuds%#$q0qsuqb+$+y@cnrk#w!nn5&0l2tfpf(&n@kr#7$'$/;"	kind:variable	line:23
+STATIC_URL	../backend/djart/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:120
+TEMPLATES	../backend/djart/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../backend/djart/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:108
+TestCase	../backend/library/tests.py	/^from django.test import TestCase$/;"	kind:namespace	line:1
+USE_I18N	../backend/djart/settings.py	/^USE_I18N = True$/;"	kind:variable	line:110
+USE_L10N	../backend/djart/settings.py	/^USE_L10N = True$/;"	kind:variable	line:112
+USE_TZ	../backend/djart/settings.py	/^USE_TZ = True$/;"	kind:variable	line:114
+WSGI_APPLICATION	../backend/djart/settings.py	/^WSGI_APPLICATION = 'djart.wsgi.application'$/;"	kind:variable	line:70
+__init__.py	../backend/djart/__init__.py	1;"	kind:file	line:1
+__init__.py	../backend/library/__init__.py	1;"	kind:file	line:1
+__init__.py	../backend/library/migrations/__init__.py	1;"	kind:file	line:1
+admin	../backend/djart/urls.py	/^from django.contrib import admin$/;"	kind:namespace	line:16
+admin	../backend/library/admin.py	/^from django.contrib import admin$/;"	kind:namespace	line:1
+admin.py	../backend/library/admin.py	1;"	kind:file	line:1
+application	../backend/djart/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	../backend/library/apps.py	1;"	kind:file	line:1
+execute_from_command_line	../backend/manage.py	/^        from django.core.management import execute_from_command_line$/;"	kind:namespace	line:8
+get_wsgi_application	../backend/djart/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+manage.py	../backend/manage.py	1;"	kind:file	line:1
+models	../backend/library/models.py	/^from django.db import models$/;"	kind:namespace	line:1
+models.py	../backend/library/models.py	1;"	kind:file	line:1
+name	../backend/library/apps.py	/^    name = 'library'$/;"	kind:variable	line:5
+os	../backend/djart/settings.py	/^import os$/;"	kind:namespace	line:13
+os	../backend/djart/wsgi.py	/^import os$/;"	kind:namespace	line:10
+os	../backend/manage.py	/^import os$/;"	kind:namespace	line:2
+path	../backend/djart/urls.py	/^from django.urls import path$/;"	kind:namespace	line:17
+render	../backend/library/views.py	/^from django.shortcuts import render$/;"	kind:namespace	line:1
+settings.py	../backend/djart/settings.py	1;"	kind:file	line:1
+sys	../backend/manage.py	/^import sys$/;"	kind:namespace	line:3
+tests.py	../backend/library/tests.py	1;"	kind:file	line:1
+urlpatterns	../backend/djart/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	../backend/djart/urls.py	1;"	kind:file	line:1
+views.py	../backend/library/views.py	1;"	kind:file	line:1
+wsgi.py	../backend/djart/wsgi.py	1;"	kind:file	line:1
